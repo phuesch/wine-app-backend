@@ -34,7 +34,8 @@ const wine: Wine[] = [
     type: "Chardonnay",
     specialties: "Im Eichenfass gereift",
     vol: 14.0,
-    description: "This is an excellent wine as a companion for frogggg.",
+    description:
+      "This is an excellent wine as a companion for light meals like salad, fish or chicken.",
     price: "16,50€",
     imagePath: "/pictures/barrica-image-transparent.png",
     productImage: "/pictures/whitewine.unsplash.jpg",
